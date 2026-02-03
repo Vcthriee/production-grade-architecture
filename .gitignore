@@ -1,0 +1,11 @@
+# Terraform - BLOCK BLOAT
+.terraform*/
+.terraform.lock.hcl
+*.tfstate*
+*.tfplan*
+override*
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
