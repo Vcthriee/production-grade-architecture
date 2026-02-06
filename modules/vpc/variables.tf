@@ -1,3 +1,4 @@
+
 # GLOBAL PROJECT VARIABLES
 
 variable "region" {

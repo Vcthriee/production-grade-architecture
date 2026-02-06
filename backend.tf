@@ -1,5 +1,4 @@
 
-
 ### Example `backend.tf`
 
 terraform {
@@ -10,5 +9,4 @@ terraform {
     use_lockfile = true
     encrypt      = true
   }
-}
-
+} 
